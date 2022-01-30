@@ -1,0 +1,36 @@
+header{
+    background-color: #003B7A;
+}
+
+a:hover{
+    background: #47A6FF;
+    color: #001029;
+}
+
+body{
+    background: #47A6FF;
+    margin: inherit;
+}
+
+nav{
+    color: #FFCF33;
+}
+
+.banner{
+    text-align: center;
+    background-color: #003B7A;
+    color: #FFCF33;
+}
+
+.activities{
+    text-align: center;
+}
+
+.banner-bottom{
+    background-color: #003B7A;
+}
+
+footer{
+    background-color: #003B7A;
+    color: #FFCF33;
+}
