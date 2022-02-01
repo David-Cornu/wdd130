@@ -1,0 +1,12 @@
+header{
+    font-size: 3em;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+    font-size: 1.3em;
+    border-radius: 10px;
+    border: black;
+    background-color: gray;
+}
