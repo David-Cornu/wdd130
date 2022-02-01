@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&family=Play&display=swap');
+
 header{
     background-color: #003B7A;
+    font-family: Play;
+}
+
+h2{
+    font-size: 2.5em;
 }
 
 a:hover{
@@ -10,10 +17,17 @@ a:hover{
 body{
     background: #47A6FF;
     margin: inherit;
+    font-family: Play;
 }
 
-nav{
+a{
     color: #FFCF33;
+    font-size: 1em;
+}
+
+p{
+    font-family: Oxygen;
+    font-size: 1.3em;
 }
 
 #background{
@@ -27,14 +41,20 @@ nav{
 }
 
 .activities{
+    font-size: 1.5em;
+}
+
+.activities{
     text-align: center;
 }
 
 .banner-bottom{
     background-color: #003B7A;
+    color: #FFCF33;
 }
 
 footer{
     background-color: #003B7A;
     color: #FFCF33;
+    font-size: 1em;
 }
