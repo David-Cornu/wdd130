@@ -16,6 +16,10 @@ nav{
     color: #FFCF33;
 }
 
+#background{
+    height: 725px;
+}
+
 .banner{
     text-align: center;
     background-color: #003B7A;
