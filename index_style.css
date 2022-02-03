@@ -1,12 +1,15 @@
 header{
     font-size: 3em;
+    padding: 45px;
 }
 
 a{
-    color: blue;
+    color: navy;
     text-decoration: none;
     font-size: 1.3em;
     border-radius: 10px;
     border: black;
-    background-color: gray;
+    background-color: lightgray;
+    margin: 20px;
+padding: 20px;
 }
