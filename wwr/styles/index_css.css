@@ -9,6 +9,14 @@ h2{
     font-size: 2.5em;
 }
 
+#banner-box{
+    background-color: #003B7A;
+}
+
+#hero{
+    width: 100%;
+}
+
 a:hover{
     background: #47A6FF;
     color: #001029;
@@ -23,6 +31,7 @@ body{
 a{
     color: #FFCF33;
     font-size: 1em;
+    margin: 2% 2%;
 }
 
 p{
@@ -38,23 +47,85 @@ p{
     text-align: center;
     background-color: #003B7A;
     color: #FFCF33;
+    padding-bottom: 5%;
 }
 
-.activities{
-    font-size: 1.5em;
+c{
+    border: 5px solid #FFCF33;
+    padding: 1%;
 }
 
-.activities{
+c:hover{
+    background: #47A6FF;
+    color: #001029;
+}
+
+#activities{
+    font-size: 150%;
     text-align: center;
+}
+
+#river{
+    border: 5px solid #003B7A;
+    margin-top: 5%;
+}
+
+#camping{
+    border: 5px solid #003B7A;
+    margin-top: 5%;
+}
+
+#rapids{
+    border: 5px solid #003B7A;
+    margin-top: 5%;
 }
 
 .banner-bottom{
     background-color: #003B7A;
     color: #FFCF33;
+    text-align: center;
+    padding: 5%;
+    margin-bottom: 20%;
+    margin-top: 20%;
+}
+
+#mount{
+    margin-top: 10%;
+    margin-bottom: 20%;
+    padding-bottom: 15%;
+    background-color: #003B7A;
+}
+
+#mountains{
+    margin: 5%;
+}
+
+b{
+    margin-bottom: 2%;
+    margin-top: 2%;
+    display: block;
+    margin-right: 80%;
+}
+
+b:hover{
+    background: #47A6FF;
+    color: #001029;
 }
 
 footer{
     background-color: #003B7A;
     color: #FFCF33;
     font-size: 1em;
+}
+
+p{
+    margin-left: -5%;
+    margin-right: -5%;
+    margin-bottom: 3%;
+}
+
+#copy{
+    margin: 2%;
+    display: block;
+    margin-right: 70%;
 }
