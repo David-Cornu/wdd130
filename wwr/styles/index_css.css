@@ -100,16 +100,11 @@ c:hover{
     margin: 5%;
 }
 
-b{
+a.bottomlinks{
     margin-bottom: 2%;
     margin-top: 2%;
     display: block;
     margin-right: 80%;
-}
-
-b:hover{
-    background: #47A6FF;
-    color: #001029;
 }
 
 footer{
