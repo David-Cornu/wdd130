@@ -16,6 +16,11 @@ a{
     padding: 20px;
 }
 
+a:hover{
+    color: red;
+    background-color: blue;
+}
+
 body{
     background-color: blue;
 }
