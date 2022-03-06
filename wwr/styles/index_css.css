@@ -162,8 +162,6 @@ p{
     margin-bottom: 3%;
 }
 
-/* Rivers page */
-
 .rivers-page{
     display: grid;
     grid-template-columns: repeat(10, 1fr);
