@@ -46,8 +46,9 @@ nav{
 }
 
 nav a:hover{
-    background: #47A6FF;
+    background-color: #47A6FF;
     color: #001029;
+
 }
 
 body{
@@ -59,7 +60,10 @@ body{
 a{
     color: #FFCF33;
     font-size: 1em;
-    margin: 2% 2%;
+    padding: 35px;
+    width: 100%;
+    text-decoration: none;
+    text-align: center;
 }
 
 p{
