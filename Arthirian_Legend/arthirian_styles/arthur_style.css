@@ -171,6 +171,22 @@ h1{
     font-size: 1.25em;
 }
 
+.disney{
+    grid-column: 1/9;
+    grid-row: 1/6;
+    border: #f0d805 solid 10px;
+}
+
+#sword_in_stone{
+    grid-column: 9/10;
+    grid-row: 2/8;
+    background-color: #b80000;
+    color: white;
+    padding: 2%;
+    border: #f0d805 solid 10px;
+    font-size: 1.25em;
+}
+
 footer{
     background-color: #3402ca;
     border-top: #f0d805 solid 10px;
