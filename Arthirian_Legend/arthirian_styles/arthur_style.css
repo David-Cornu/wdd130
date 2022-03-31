@@ -175,6 +175,7 @@ h1{
     grid-column: 1/9;
     grid-row: 1/6;
     border: #f0d805 solid 10px;
+    width: 130%;
 }
 
 #sword_in_stone{
